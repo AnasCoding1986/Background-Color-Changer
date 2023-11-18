@@ -1,0 +1,42 @@
+body{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 3%;
+}
+.color-switcher{
+    text-align: right;
+}
+.btn{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: .7rem;
+    margin: 0 5px;
+    cursor: pointer;
+}
+#black{
+    background-color: black;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: rgb(139, 164, 194);
+}
+#yellow{
+    background-color: rgb(184, 179, 85);
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 1000px;
+    margin: 10% 0;
+    text-align: center;
+}
+p{
+    font-size: 1.5rem;
+    font-size: 800;
+}
